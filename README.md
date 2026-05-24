@@ -1,1 +1,1 @@
-# kalkulator-fisika1
+# Smart-Physics-Calculator
